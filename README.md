@@ -21,6 +21,14 @@
 </p>
 
 <h2 align="middle">
+    🌐 Translations
+</h2>
+
+<p align="middle">
+    <img alt='Language breakdown' width='75%' src='https://language-breakdown-materialbook.eepiemi.workers.dev'/>
+</p>
+
+<h2 align="middle">
     ✏️ This fork:
 </h2>
 
